@@ -1,2 +1,2 @@
 # SDHI_India_ML
-Calculating SDHI values using past 10 year data and seeing actual and predicted values.
+Calculating SDHI value OF Year 2022.
